@@ -5,7 +5,6 @@ export default function Home() {
         src="/asset/sale-vid.mp4"
         autoPlay
         muted
-        controls
         loop
         className="w-full sm:w-[50%] max-w-4xl"
       />
